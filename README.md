@@ -28,6 +28,4 @@ This Power BI dashboard analyzes Zepto sales performance using various KPIs and 
 - Total Items: 6412
 - Average Rating: 3.9
 
-## Author
-Aliza Shaikh
-B.Tech CSE (AI & Analytics)
+
